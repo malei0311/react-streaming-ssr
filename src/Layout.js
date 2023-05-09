@@ -6,6 +6,6 @@
  *
  */
 
-export default function Layout({children}) {
+export default function Layout({ children }) {
   return <main>{children}</main>;
 }

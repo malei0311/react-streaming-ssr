@@ -11,7 +11,7 @@ export default function Post() {
     <>
       <h1>Hello world</h1>
       <p>
-        This demo is <b>artificially slowed down</b>. Open{' '}
+        This demo is <b>artificially slowed down</b>. Open{" "}
         <code>server/delays.js</code> to adjust how much different things are
         slowed down.
       </p>
